@@ -1,0 +1,29 @@
+@keyframes progressbar-1 {
+    from {
+        width: 20%;
+    }
+
+    to {
+        width: 95%;
+    }
+}
+@keyframes progressbar-2 {
+    from {
+        width: 20%;
+    }
+
+    to {
+        width: 80%;
+    }
+}
+@keyframes progressbar-3 {
+    from {
+        width: 20%;
+    }
+
+    to {
+        width: 90%;
+    }
+}
+
+
